@@ -26,7 +26,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure SLAs
 - Configure Help Topics
 
-<h2>Configuration Steps</h2>
+<h2>Adding Roles, Departments</h2>
 
 ![image](https://github.com/user-attachments/assets/0124e7e0-dee9-494f-98d2-39c0505ea9a5)
 ![image](https://github.com/user-attachments/assets/0d5d3aca-750a-4fda-9fa1-23178b5328e6)
@@ -36,6 +36,8 @@ Now that the ticketing system is set up I start by configuring some roles. First
 </p>
 <br />
 
+<h2>Configure teams</h2>
+
 ![image](https://github.com/user-attachments/assets/cc466484-ed2e-4289-8e18-8e8f585d7aeb)
 ![image](https://github.com/user-attachments/assets/dabffda6-35f5-441b-9c50-15100a4ef8f1)
 
@@ -43,6 +45,8 @@ Now that the ticketing system is set up I start by configuring some roles. First
 Next we configure Teams to add an online banking team to the ticketing system and add an agent to it.
 </p>
 <br />
+
+<h2>Add agents and SLAs</h2>
 
 ![image](https://github.com/user-attachments/assets/1b72f88a-8d91-4348-87a3-44396ef03e07)
 ![image](https://github.com/user-attachments/assets/c320c9c1-ff94-4394-ae91-bc2b346b5a9c)
